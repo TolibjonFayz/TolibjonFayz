@@ -3,9 +3,9 @@
 # Hey, I'm Tolibjon 👋
 ### Fullstack Web Developer · Tashkent, Uzbekistan 🇺🇿
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tolibjon-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolibjonfayzullayev/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tolibjon_fayz  )
 
 </div>
 
@@ -15,9 +15,8 @@
 
 - 🚀 Fullstack developer with **2+ years** of experience
 - 🏗️ Currently building **[climavent.uz](https://climavent.uz)** — ventilation & climate systems platform
-- 🎓 Student at **Tashkent State University of Economics** (Finance & Financial Technologies)
+- 🎓 Student of **Najot Ta'lim**
 - 🌱 Always learning — currently deepening skills in **system architecture & design patterns**
-- ⚡ Fun fact: I hit the gym and code with the same energy 💪
 
 ---
 
@@ -57,7 +56,7 @@
 ### 🌐 Personal Portfolio
 > My personal portfolio showcasing projects and skills
 - Built with **Vue.js**, deployed on **Vercel**
-- [Live →](https://your-portfolio.vercel.app)
+- [Live →]([https://your-portfolio.vercel.app](https://tolibjon-portfolio.vercel.app/))
 
 ---
 
