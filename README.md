@@ -56,7 +56,7 @@
 ### 🌐 Personal Portfolio
 > My personal portfolio showcasing projects and skills
 - Built with **Vue.js**, deployed on **Vercel**
-- [Live →]([https://your-portfolio.vercel.app](https://tolibjon-portfolio.vercel.app/))
+- [Live →](https://your-portfolio.vercel.app](https://tolibjon-portfolio.vercel.app)
 
 ---
 
