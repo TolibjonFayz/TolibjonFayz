@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 
 - 🚀 Fullstack developer with **2+ years** of experience
-- 🏗️ Currently building **Climavent ERP** — an enterprise resource planning system
+- 🏗️ Currently building **[climavent.uz](https://climavent.uz)** — ventilation & climate systems platform
 - 🎓 Student at **Tashkent State University of Economics** (Finance & Financial Technologies)
 - 🌱 Always learning — currently deepening skills in **system architecture & design patterns**
 - ⚡ Fun fact: I hit the gym and code with the same energy 💪
@@ -25,10 +25,10 @@
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
-![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -46,24 +46,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
-### 🏢 Climavent ERP
-> Enterprise Resource Planning system for Climavent company
+### 🌬️ [climavent.uz](https://climavent.uz)
+> Ventilation & climate systems platform for Climavent company
 - Built with **Vue 3 + NestJS + PostgreSQL**
 - Features: Partner management, audit logs, dashboard KPIs, multilingual (UZ/RU), dark mode
 - Role-based access control, Excel export, mobile-responsive UI
