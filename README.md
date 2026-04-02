@@ -1,1 +1,84 @@
-[![My Skills](https://skillicons.dev/icons?i=vue,nodejs,nestjs,postgres,ts)](https://skillicons.dev)
+<div align="center">
+
+# Hey, I'm Tolibjon 👋
+### Fullstack Web Developer · Tashkent, Uzbekistan 🇺🇿
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🚀 Fullstack developer with **2+ years** of experience
+- 🏗️ Currently building **Climavent ERP** — an enterprise resource planning system
+- 🎓 Student at **Tashkent State University of Economics** (Finance & Financial Technologies)
+- 🌱 Always learning — currently deepening skills in **system architecture & design patterns**
+- ⚡ Fun fact: I hit the gym and code with the same energy 💪
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
+![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Climavent ERP
+> Enterprise Resource Planning system for Climavent company
+- Built with **Vue 3 + NestJS + PostgreSQL**
+- Features: Partner management, audit logs, dashboard KPIs, multilingual (UZ/RU), dark mode
+- Role-based access control, Excel export, mobile-responsive UI
+
+### 🌐 Personal Portfolio
+> My personal portfolio showcasing projects and skills
+- Built with **Vue.js**, deployed on **Vercel**
+- [Live →](https://your-portfolio.vercel.app)
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something awesome together!
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+
+</div>
