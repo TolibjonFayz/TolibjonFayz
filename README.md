@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 - 🚀 Fullstack developer with **2+ years** of experience
 - 🏗️ Currently building **[climavent.uz](https://climavent.uz)** — ventilation & climate systems platform
